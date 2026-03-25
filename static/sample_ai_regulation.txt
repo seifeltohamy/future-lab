@@ -1,0 +1,112 @@
+AI REGULATION LANDSCAPE - BRIEFING DOCUMENT
+Prepared: Q4 2024
+
+=== OVERVIEW ===
+
+Artificial intelligence regulation is becoming one of the most contested policy battlegrounds globally. Governments, technology companies, civil society organizations, and academic researchers hold deeply conflicting views on how AI should be governed.
+
+=== KEY ACTORS ===
+
+GOVERNMENTS:
+
+European Union (EU)
+- Passed the EU AI Act in March 2024 — the world's first comprehensive AI law.
+- Classifies AI systems by risk level: unacceptable risk (banned), high risk (strict rules), limited risk, minimal risk.
+- Banned real-time facial recognition in public spaces by law enforcement.
+- Requires transparency for AI-generated content (watermarking).
+- Fines up to €35 million or 7% of global turnover for violations.
+
+United States (Biden Administration)
+- Executive Order on AI Safety signed October 2023.
+- Requires AI companies to share safety test results with the government before public release.
+- National Institute of Standards and Technology (NIST) developing voluntary AI Risk Management Framework.
+- Congress has not yet passed federal AI legislation. Multiple competing bills stalled.
+
+China
+- State Council issued Generative AI Regulations effective August 2023.
+- Requires AI-generated content to reflect "core socialist values."
+- Mandatory registration of large AI models with the Cyberspace Administration of China (CAC).
+- Heavy emphasis on data sovereignty and domestic AI development.
+
+United Kingdom
+- Rejected sector-specific regulation in favor of a "pro-innovation" principles-based approach.
+- Existing regulators (FCA, CMA, ICO) apply their own AI guidance to their sectors.
+- Hosted AI Safety Summit at Bletchley Park in November 2023 — 28 countries signed the Bletchley Declaration.
+
+TECHNOLOGY COMPANIES:
+
+OpenAI
+- CEO Sam Altman testified before US Senate in May 2023, called for AI regulation and licensing.
+- Released GPT-4o in May 2024. Faces ongoing safety criticism from former employees.
+- Transitioned from nonprofit to "public benefit corporation" structure in 2024.
+- Partnered with Microsoft ($13 billion investment). Powers Bing, Copilot, Azure AI.
+
+Google DeepMind
+- Released Gemini 1.5 Pro in February 2024.
+- Signed voluntary AI safety commitments with White House alongside OpenAI, Anthropic, Meta.
+- CEO Sundar Pichai advocates for "balanced regulation" — not too restrictive, not too lax.
+
+Anthropic
+- Founded by former OpenAI researchers including Dario Amodei and Daniela Amodei.
+- Developed "Constitutional AI" safety methodology.
+- Received $4 billion investment from Amazon. Total funding exceeds $7 billion.
+- Advocates for mandatory safety evaluations before frontier model deployment.
+
+Meta (Zuckerberg)
+- Released Llama 3 as open-source model. Strongly opposes closed-model approach.
+- Mark Zuckerberg publicly criticized EU AI Act as overly burdensome for innovation.
+- Open-sourcing strategy allows researchers and smaller companies to build on Meta's models.
+
+Elon Musk / xAI
+- Filed lawsuit against OpenAI alleging breach of non-profit mission.
+- Founded xAI and released Grok chatbot via X (Twitter).
+- Co-signed open letter calling for 6-month pause on advanced AI training (March 2023).
+
+CIVIL SOCIETY & RESEARCHERS:
+
+Center for AI Safety (CAIS)
+- Published statement signed by 350+ AI scientists warning of "extinction risk" from advanced AI.
+- Advocates for strict international AI governance similar to nuclear non-proliferation treaties.
+
+Electronic Frontier Foundation (EFF)
+- Opposes broad AI regulation that could restrict open-source development.
+- Concerned about surveillance uses of AI by law enforcement.
+
+AI Now Institute
+- Documents algorithmic discrimination in hiring, criminal justice, and healthcare.
+- Pushes for accountability measures and auditing requirements for high-stakes AI systems.
+
+=== KEY DEBATES ===
+
+1. OPEN SOURCE vs. CLOSED SOURCE
+   - Meta argues open-source AI democratizes access and improves security through transparency.
+   - OpenAI/Anthropic argue open-source frontier models create unacceptable catastrophic risk.
+   - Regulators divided: EU AI Act has carve-outs for open-source but still imposes some requirements.
+
+2. SAFETY vs. INNOVATION
+   - Tech companies warn excessive regulation will drive AI development to less-regulated countries.
+   - Safety advocates argue voluntary commitments are insufficient and legally unenforceable.
+   - The "Brussels Effect": EU AI Act may set global standard as multinationals comply globally.
+
+3. FRONTIER AI & EXISTENTIAL RISK
+   - Geoffrey Hinton (Nobel Prize 2024) resigned from Google citing existential risk concerns.
+   - Yann LeCun (Meta) dismisses extinction risk claims as "science fiction" and "fear mongering."
+   - Yoshua Bengio advocates for international AI safety body analogous to the IAEA.
+
+4. AI IN EMPLOYMENT
+   - Goldman Sachs estimates 300 million jobs could be disrupted by generative AI.
+   - IBM paused hiring for 7,800 back-office roles expected to be replaced by AI.
+   - AFL-CIO and major unions demanding AI governance clauses in collective bargaining agreements.
+
+5. DEEPFAKES & ELECTIONS
+   - 2024 is largest election year in history (60+ countries voting).
+   - AI-generated political deepfakes circulated in elections in Slovakia, Taiwan, Bangladesh, and the US.
+   - Watermarking initiatives (C2PA standard) gaining adoption but circumvention is easy.
+
+=== PUBLIC SENTIMENT ===
+
+Surveys show:
+- 52% of Americans fear AI will eliminate their job within 10 years (Gallup, 2024)
+- 67% support government regulation of AI (Pew Research, 2024)
+- 78% concerned about AI-generated misinformation (Reuters Institute, 2024)
+- Tech workers split: 44% believe their company moves too fast on AI safety
