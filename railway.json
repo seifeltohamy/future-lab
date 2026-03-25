@@ -1,0 +1,21 @@
+{
+  "$schema": "https://railway.app/railway.schema.json",
+  "services": [
+    {
+      "name": "backend",
+      "dockerfile": "Dockerfile.backend",
+      "variables": {
+        "FLASK_HOST": "0.0.0.0",
+        "FLASK_PORT": "5001",
+        "PORT": "5001"
+      }
+    },
+    {
+      "name": "frontend",
+      "dockerfile": "Dockerfile.frontend",
+      "variables": {
+        "PORT": "3000"
+      }
+    }
+  ]
+}

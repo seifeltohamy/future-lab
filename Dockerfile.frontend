@@ -1,0 +1,22 @@
+FROM node:20-alpine
+
+WORKDIR /app
+
+# Copy frontend deps
+COPY frontend/package.json frontend/package-lock.json ./frontend/
+
+# Install deps
+RUN cd frontend && npm ci
+
+# Copy source
+COPY frontend/ ./frontend/
+
+# Build
+RUN cd frontend && npm run build
+
+# Serve with a lightweight static server
+RUN npm install -g serve
+
+EXPOSE 3000
+
+CMD ["serve", "-s", "frontend/dist", "-l", "3000"]
